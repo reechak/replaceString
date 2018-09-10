@@ -1,6 +1,0 @@
-/Users/reechakansal/Projects/sample/sample/bin/Debug/sample.exe
-/Users/reechakansal/Projects/sample/sample/bin/Debug/sample.pdb
-/Users/reechakansal/Projects/sample/sample/obj/x86/Debug/sample.csprojAssemblyReference.cache
-/Users/reechakansal/Projects/sample/sample/obj/x86/Debug/sample.csproj.CoreCompileInputs.cache
-/Users/reechakansal/Projects/sample/sample/obj/x86/Debug/sample.exe
-/Users/reechakansal/Projects/sample/sample/obj/x86/Debug/sample.pdb
